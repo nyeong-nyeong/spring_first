@@ -1,6 +1,6 @@
  - 김영한 강사님의 스프링 입문 강의 내용
    
-   - **[Spring](http://www.naver.com/)**
+   - **[Spring](https://github.com/nyeong-nyeong/TIL/blob/main/Spring/Spring.md)**
    - **[MVC](#MVC)**
    - **[JDBC](#JDBC)**
    - **[JPA](#JPA)**
